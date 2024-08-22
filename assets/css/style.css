@@ -352,6 +352,7 @@ footer img {
     }
   }
 
+  /* footer */
   @media (max-width: 427px) {
     body {
       width: 100%;
